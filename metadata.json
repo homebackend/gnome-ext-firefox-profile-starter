@@ -1,0 +1,8 @@
+{
+  "name": "Firefox profile starter",
+  "description": "Starts firefox profile while firefox is running.",
+  "uuid": "neerajcd@gmail.com",
+  "shell-version": [
+    "47"
+  ]
+}
