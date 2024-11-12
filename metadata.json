@@ -1,6 +1,6 @@
 {
   "name": "Firefox profile starter",
-  "description": "Starts firefox profile while firefox is running.",
+  "description": "Adds Gnome Panel Menu to list and execute Firefox profiles.",
   "uuid": "neerajcd@gmail.com",
   "shell-version": [
     "47"
