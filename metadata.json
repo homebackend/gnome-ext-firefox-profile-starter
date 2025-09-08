@@ -1,8 +1,10 @@
 {
   "name": "Firefox profile starter",
   "description": "Adds Gnome Panel Menu to list and execute Firefox profiles.",
-  "uuid": "neerajcd@gmail.com",
+  "uuid": "firefox-profile-starter-neerajcd@gmail.com",
   "shell-version": [
-    "47"
+    "46",
+    "47",
+    "48"
   ]
 }
