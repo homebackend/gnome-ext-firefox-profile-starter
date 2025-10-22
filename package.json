@@ -1,6 +1,6 @@
 {
   "name": "gnome-ext-firefox-profile-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds Gnome Panel Menu to list and execute Firefox profiles.",
   "main": "dist/extension.js",
   "scripts": {
